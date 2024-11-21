@@ -1,0 +1,44 @@
+@font-face{
+    font-family: 'Lato-reg';
+    src: url(../fonts/Lato-Regular.ttf);
+}
+@font-face{
+    font-family: 'Lato-light';
+    src: url(../fonts/Lato-Light.ttf);
+}
+@font-face{
+    font-family: 'Lato-medium';
+    src: url(../fonts/Lato-Medium.ttf);
+}
+@font-face{
+    font-family: 'Lato-bold';
+    src: url(../fonts/Lato-ExtraBold.ttf);
+}
+@font-face{
+    font-family: 'Fut-medium';
+    src: url(../fonts/FuturaPTMedium.otf);
+}
+@font-face{
+    font-family: 'Fut-light';
+    src: url(../fonts/FuturaPTLight.otf);
+}
+@font-face{
+    font-family: 'Fut-heavy';
+    src: url(../fonts/FuturaPTHeavy.otf);
+}
+@font-face{
+    font-family: 'Fut-exbold';
+    src: url(../fonts/FuturaPTExtraBold.otf);
+}
+@font-face{
+    font-family: 'Fut-demi';
+    src: url(../fonts/FuturaPTDemi.otf);
+}
+@font-face{
+    font-family: 'Fut-book';
+    src: url(../fonts/FuturaPTBook.otf);
+}
+@font-face{
+    font-family: 'Fut-bold';
+    src: url(../fonts/FuturaPTBold.otf);
+}
